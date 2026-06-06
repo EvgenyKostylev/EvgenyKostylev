@@ -2,7 +2,6 @@
 
 ## I'm a Java Backend Developer
 
-<!--
 I am eager to learn new things about the development world and am looking for interesting projects in which I can participate.
 
 ## 🛠️ Tech Stack
@@ -17,4 +16,4 @@ I am eager to learn new things about the development world and am looking for in
 
 ## 📫 Contact Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasrbutnoc)
+[![Telegram](https://img.shields.io/badge/Telegram-@hasrbutnoc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasrbutnoc)
