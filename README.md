@@ -17,3 +17,8 @@ I am eager to learn new things about the development world and am looking for in
 ## 📫 Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@hasrbutnoc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hasrbutnoc)
+
+## 📚 Currently Learning
+
+- Spring Security
+- Microservices
